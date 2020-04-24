@@ -1,0 +1,13 @@
+body{
+  background-color: #b3d3fa;
+}
+h1{
+  text-shadow: 5px 10px 10px;
+}
+.navigation__button{
+  color: blue;
+}
+.quotation{
+  border-bottom-style: double;
+  border-bottom-color: blue;
+}
