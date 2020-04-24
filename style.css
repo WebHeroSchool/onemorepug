@@ -1,0 +1,15 @@
+body{
+  background-color: #b3d3fa;
+}
+.header{
+  color: green;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.inner{
+  color: red
+}
+.header__title{
+  color: black;
+  font-family: Times, Times New Roman, Georgia, serif;
+  text-shadow: 5px 10px 10px;
+}
